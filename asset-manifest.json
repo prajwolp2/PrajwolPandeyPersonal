@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PrajwolPandeyPersonal/static/css/main.571f7fe0.css",
+    "main.js": "/PrajwolPandeyPersonal/static/js/main.60e27f55.js",
+    "static/js/453.b2b60593.chunk.js": "/PrajwolPandeyPersonal/static/js/453.b2b60593.chunk.js",
+    "static/media/financeProject.png": "/PrajwolPandeyPersonal/static/media/financeProject.fa6f5b889ed21a2bc4bc.png",
+    "index.html": "/PrajwolPandeyPersonal/index.html",
+    "main.571f7fe0.css.map": "/PrajwolPandeyPersonal/static/css/main.571f7fe0.css.map",
+    "main.60e27f55.js.map": "/PrajwolPandeyPersonal/static/js/main.60e27f55.js.map",
+    "453.b2b60593.chunk.js.map": "/PrajwolPandeyPersonal/static/js/453.b2b60593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.571f7fe0.css",
+    "static/js/main.60e27f55.js"
+  ]
+}
