@@ -1,7 +1,7 @@
 {
   "name": "personalwebsite",
   "version": "0.1.0",
-  "homepage": "https://prajwolp2.github.io/PrajwolPandeyPersonal/",
+  "homepage": "https://prajwol.org",
   "private": true,
   "dependencies": {
     "@react-three/drei": "^10.7.8",
