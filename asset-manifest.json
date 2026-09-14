@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/PrajwolPandeyPersonal/static/css/main.571f7fe0.css",
-    "main.js": "/PrajwolPandeyPersonal/static/js/main.60e27f55.js",
-    "static/js/453.b2b60593.chunk.js": "/PrajwolPandeyPersonal/static/js/453.b2b60593.chunk.js",
+    "main.css": "/PrajwolPandeyPersonal/static/css/main.7333c12d.css",
+    "main.js": "/PrajwolPandeyPersonal/static/js/main.67c3cfd5.js",
     "static/media/financeProject.png": "/PrajwolPandeyPersonal/static/media/financeProject.fa6f5b889ed21a2bc4bc.png",
+    "static/media/profile.jpg": "/PrajwolPandeyPersonal/static/media/profile.e6275f745dd156414fe7.jpg",
     "index.html": "/PrajwolPandeyPersonal/index.html",
-    "main.571f7fe0.css.map": "/PrajwolPandeyPersonal/static/css/main.571f7fe0.css.map",
-    "main.60e27f55.js.map": "/PrajwolPandeyPersonal/static/js/main.60e27f55.js.map",
-    "453.b2b60593.chunk.js.map": "/PrajwolPandeyPersonal/static/js/453.b2b60593.chunk.js.map"
+    "main.7333c12d.css.map": "/PrajwolPandeyPersonal/static/css/main.7333c12d.css.map",
+    "main.67c3cfd5.js.map": "/PrajwolPandeyPersonal/static/js/main.67c3cfd5.js.map"
   },
   "entrypoints": [
-    "static/css/main.571f7fe0.css",
-    "static/js/main.60e27f55.js"
+    "static/css/main.7333c12d.css",
+    "static/js/main.67c3cfd5.js"
   ]
 }
