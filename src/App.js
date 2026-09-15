@@ -12,7 +12,6 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 const KEY = 'pp-intro-seen';
-
 function shouldShowIntro() {
   try {
     return !window.sessionStorage.getItem(KEY);
