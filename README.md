@@ -1,7 +1,7 @@
 # Prajwol Pandey, Portfolio
 
 Personal portfolio built with React and Framer Motion. Live at
-[prajwolp2.github.io/PrajwolPandeyPersonal](https://prajwolp2.github.io/PrajwolPandeyPersonal/).
+[prajwolp2.github.io/PrajwolPandeyPersonal](https://prajwol.org/).
 
 ## Stack
 
