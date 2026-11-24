@@ -1,5 +1,6 @@
-import financeProject from '../images/financeProject.png';
 import profile from '../images/profile.jpg';
+import kalshiDashboard from '../images/kalshiDashboard.jpg';
+import kalshiDailyPnl from '../images/kalshiDailyPnl.jpg';
 
 export const site = {
   name: 'Prajwol Pandey',
@@ -131,33 +132,18 @@ export const education = {
 
 export const projects = [
   {
-    id: 'finance',
-    title: 'Accelerated Finance Dashboard',
-    year: '2025',
-    kind: 'Data visualization',
-    description:
-      'A market overview dashboard that charts the S&P 500 trend alongside the return of the ten most-watched tickers. Built to make a pile of pricing data readable at a glance.',
-    tags: ['Python', 'Data viz', 'Finance'],
-    image: financeProject,
-  },
-  {
-    id: 'diit',
-    title: 'Student Records Modernization',
-    year: '2024',
-    kind: 'Systems design, NYC DOE',
-    description:
-      'Research collaboration with the NYC Department of Education to architect a scalable, more secure approach to student record-keeping for a district serving over a million students.',
-    tags: ['Systems design', 'Data security', 'Research'],
-  },
-  {
-    id: 'portfolio',
-    title: 'This Website',
+    id: 'kalshi',
+    title: 'Kalshi Algorithmic Trading Bot',
     year: '2026',
-    kind: 'Web',
+    kind: 'Algorithmic trading',
     description:
-      'The site you are reading. A React single-page app with Framer Motion handling the reveals and transitions, and plain CSS for everything else. Deployed on GitHub Pages.',
-    tags: ['React', 'Framer Motion', 'GitHub Pages'],
-    link: 'https://github.com/prajwolp2/PrajwolPandeyPersonal',
+      'A live, real-money bot for Kalshi’s 15-minute Bitcoin contracts. It prices each contract as a digital option under a Brownian-motion model and buys only when momentum agrees and the edge clears 2¢ after fees. Backtested on 30,561 windows with walk-forward validation; +$145 across 349 live trades so far, a 61% win rate and a 97% fill rate. Runs 24/7 on a Linux server with percent-of-equity risk limits and 147 unit tests.',
+    tags: ['Python', 'Linux', 'REST APIs', 'Statistical modeling'],
+    link: 'https://github.com/prajwolp2/kalshi-bot',
+    images: [
+      { src: kalshiDashboard, alt: 'Live dashboard: cash, P&L, win rate, the current market window and daily P&L' },
+      { src: kalshiDailyPnl, alt: 'Daily P&L chart and table for 349 settled trades, Nov 8 to 23, 2026' },
+    ],
   },
 ];
 
