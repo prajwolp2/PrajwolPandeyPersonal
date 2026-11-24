@@ -49,7 +49,6 @@ export const about = {
     { value: 100000, suffix: '+', label: 'Fleet records analyzed for NYC' },
     { value: 10000, suffix: '+', label: 'Excel rows turned into SQL at JPMorgan' },
     { value: 100, suffix: '+', label: 'Staff using apps I built' },
-    { value: 4, suffix: '', label: 'Languages spoken' },
   ],
 };
 
