@@ -66,9 +66,8 @@ export default function Experience() {
             <Reveal y={12}>
               <p className="mono">Four roles since 2024</p>
               <p>
-                From architecting record systems for the nation's largest school district to analyzing a
-                30,000-vehicle city fleet. Every role added a layer, and each one taught me to ship things people rely
-                on.
+                Data work for New York City and JPMorgan Chase, web apps for Stony Brook, and a student records
+                project with the NYC Department of Education.
               </p>
             </Reveal>
             <Reveal className="edu" delay={0.08} y={12}>

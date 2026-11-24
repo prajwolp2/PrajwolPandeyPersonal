@@ -42,8 +42,7 @@ export default function Contact() {
             Say <em className="accent">hello.</em>
           </Reveal>
           <Reveal as="p" className="contact__lede" delay={0.1} y={12}>
-            I'm looking for a Summer 2027 internship in software or data engineering. If you have a role, a project,
-            or just a question, my inbox is open.
+            I'm looking for a Summer 2027 internship in software or data engineering. Feel free to email me.
           </Reveal>
         </div>
 

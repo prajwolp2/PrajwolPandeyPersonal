@@ -14,7 +14,7 @@ export default function Skills() {
           index="04"
           label="Toolbox"
           title="What I work with."
-          intro="Languages, frameworks, and tools I reach for. The list keeps growing."
+          intro="The languages, frameworks and tools I use."
         />
         <div className="skills__grid">
           <div className="skills__list">

@@ -8,7 +8,7 @@ export default function About() {
   return (
     <section id="about" className="section">
       <div className="container">
-        <SectionHead index="01" label="About" title="Curious builder, careful engineer." />
+        <SectionHead index="01" label="About" title="A bit about me." />
 
         <div className="about__grid">
           <Reveal className="about__figure" y={20}>
