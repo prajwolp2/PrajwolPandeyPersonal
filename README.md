@@ -16,7 +16,7 @@ All copy, links, experience entries, projects, and skills live in one file:
 
 - Profile photo: `src/images/profile.jpg`
 - Project screenshots: `src/images/`
-- Resume: `public/resume.pdf`
+- Resume: `public/Prajwol-Pandey-Resume.pdf` (bump the `?v=` date in `src/data/content.js` when you replace it)
 
 ## Scripts
 

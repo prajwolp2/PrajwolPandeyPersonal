@@ -3,6 +3,7 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { projects } from '../data/content';
 import Reveal, { EASE } from './Reveal';
 import SectionHead from './SectionHead';
+import PricingDemo from './PricingDemo';
 import { ArrowLeft, ArrowRight, ArrowUpRight, Close } from './Icons';
 
 function Lightbox({ images, title, onClose }) {
@@ -140,7 +141,10 @@ export default function Projects() {
         />
         <div className="work__list">
           {projects.map((p, i) => (
-            <Row key={p.id} project={p} index={i} onOpen={setOpenProject} />
+            <React.Fragment key={p.id}>
+              <Row project={p} index={i} onOpen={setOpenProject} />
+              {p.demo === 'pricing' && <PricingDemo />}
+            </React.Fragment>
           ))}
         </div>
       </div>

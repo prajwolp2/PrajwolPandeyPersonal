@@ -11,7 +11,7 @@ export const site = {
   email: 'prajwolpandey0730@gmail.com',
   github: 'https://github.com/prajwolp2',
   linkedin: 'https://www.linkedin.com/in/prajwol-pandey-841175289/',
-  resume: `${process.env.PUBLIC_URL}/resume.pdf`,
+  resume: `${process.env.PUBLIC_URL}/Prajwol-Pandey-Resume.pdf?v=2026-11-24`,
   availability: 'Open to Summer 2027 internships',
   profile,
 };
@@ -138,6 +138,7 @@ export const projects = [
       'A live, real-money bot for Kalshi’s 15-minute Bitcoin contracts. It prices each contract as a digital option under a Brownian-motion model and buys only when momentum agrees and the edge clears 2¢ after fees. Backtested on 30,561 windows with walk-forward validation; +$145 across 349 live trades so far, a 61% win rate and a 97% fill rate. Runs 24/7 on a Linux server with percent-of-equity risk limits and 147 unit tests.',
     tags: ['Python', 'Linux', 'REST APIs', 'Statistical modeling'],
     link: 'https://github.com/prajwolp2/kalshi-bot',
+    demo: 'pricing',
     images: [
       { src: kalshiDashboard, alt: 'Live dashboard: cash, P&L, win rate, the current market window and daily P&L' },
       { src: kalshiDailyPnl, alt: 'Daily P&L chart and table for 349 settled trades, Nov 8 to 23, 2026' },
