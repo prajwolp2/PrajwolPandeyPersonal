@@ -35,7 +35,7 @@ export default function Contact() {
       <div className="container contact__grid">
         <div>
           <Reveal as="p" className="section__label mono" y={12}>
-            <b>05</b>
+            <b>04</b>
             <span>Contact</span>
           </Reveal>
           <Reveal as="h2" className="contact__title display" delay={0.05} y={20} style={{ marginTop: 20 }}>

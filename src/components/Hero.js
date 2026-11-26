@@ -79,8 +79,8 @@ export default function Hero() {
             <p className="hero__lede">{hero.lede}</p>
             <div className="hero__actions">
               <Magnetic strength={0.2}>
-                <a href="#work" className="btn btn--solid">
-                  See my work <ArrowUpRight />
+                <a href="#experience" className="btn btn--solid">
+                  See my experience <ArrowUpRight />
                 </a>
               </Magnetic>
               <Magnetic strength={0.2}>

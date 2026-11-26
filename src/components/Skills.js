@@ -11,7 +11,7 @@ export default function Skills() {
     <section id="skills" className="section">
       <div className="container">
         <SectionHead
-          index="04"
+          index="03"
           label="Toolbox"
           title="What I work with."
           intro="The languages, frameworks and tools I use."
